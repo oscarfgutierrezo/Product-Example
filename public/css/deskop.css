@@ -1,0 +1,16 @@
+.main-headline__container {
+    width: 30%;
+    margin: 14.4rem auto;
+}
+
+.main-headline__container h1 {
+    font-size: 5.6rem;
+}
+
+.main-headline__product, .main-headline__product-2 {
+    display: block;
+}
+
+.secondary-headline__container {
+    padding: 3rem 3rem 0;
+}
